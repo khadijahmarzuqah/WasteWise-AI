@@ -1,0 +1,39 @@
+sku,name,category,price,cost,quantity,expiry_date,shelf_life_days,reorder_qty
+MLK001,Full Cream Milk 1L,Milk,68.0,58.0,180,2026-11-26,7,120
+MLK001,Full Cream Milk 1L,Milk,68.0,58.0,150,2026-11-30,7,120
+MLK002,Toned Milk 500ml,Milk,30.0,26.0,259,2026-11-28,7,150
+MLK003,Chocolate Milk 200ml,Milk,25.0,19.0,161,2027-01-13,120,100
+MLK004,Oat Milk 1L (new listing),Milk,190.0,150.0,60,2026-12-14,30,24
+YOG001,Curd 400g,Yogurt,40.0,32.0,150,2026-11-27,10,90
+YOG001,Curd 400g,Yogurt,40.0,32.0,90,2026-12-03,10,90
+YOG002,Greek Yogurt 100g,Yogurt,55.0,42.0,40,2026-12-02,21,40
+YOG003,Sweet Lassi 200ml,Yogurt,25.0,18.0,137,2026-12-03,14,60
+YOG004,Probiotic Shot 65ml (new listing),Yogurt,15.0,11.0,130,2026-12-06,21,60
+BRD001,White Bread 400g,Bread,45.0,36.0,90,2026-11-25,4,60
+BRD001,White Bread 400g,Bread,45.0,36.0,40,2026-11-27,4,60
+BRD002,Multigrain Bread 400g,Bread,60.0,48.0,56,2026-11-28,5,30
+BRD003,Burger Buns 4pk,Bread,40.0,30.0,30,2026-11-26,4,20
+BIS001,Glucose Biscuits 120g,Biscuits,10.0,8.0,3600,2027-03-14,150,600
+BIS002,Cream Biscuits 100g,Biscuits,30.0,23.0,301,2027-01-23,150,240
+BIS003,Digestive Biscuits 250g,Biscuits,55.0,42.0,120,2027-03-24,180,48
+JUC001,Orange Juice 1L,Juice,110.0,85.0,103,2027-01-15,90,48
+JUC002,Mango Drink 200ml,Juice,20.0,15.0,900,2027-02-12,120,300
+JUC003,Cold-Pressed Juice 250ml,Juice,90.0,65.0,25,2026-11-27,5,12
+JUC004,Coconut Water 200ml,Juice,35.0,26.0,90,2027-02-02,120,48
+VEG001,Tomato 1kg,Vegetables,40.0,28.0,116,2026-11-30,6,80
+VEG002,Potato 1kg,Vegetables,35.0,24.0,224,2026-12-06,20,150
+VEG003,Spinach Bunch,Vegetables,20.0,13.0,40,2026-11-26,3,40
+VEG004,Capsicum 500g,Vegetables,45.0,32.0,32,2026-12-01,7,25
+FRU001,Banana (dozen),Fruits,60.0,44.0,72,2026-11-29,5,50
+FRU002,Apple 1kg,Fruits,180.0,140.0,103,2026-12-13,20,40
+FRU003,Papaya (medium),Fruits,70.0,50.0,35,2026-11-28,5,20
+FRU004,Grapes 500g,Fruits,90.0,68.0,60,2026-11-30,7,25
+SNK001,Potato Chips 52g,Snacks,20.0,15.0,2400,2027-02-07,120,500
+SNK002,Namkeen Mixture 200g,Snacks,55.0,40.0,600,2027-03-04,150,120
+SNK003,Salted Popcorn 90g,Snacks,40.0,29.0,100,2027-03-14,150,48
+SNK004,Protein Bar 50g,Snacks,120.0,90.0,26,2027-06-07,240,48
+GRO001,Basmati Rice 5kg,Other Grocery,520.0,430.0,47,2027-09-04,365,24
+GRO002,Sunflower Oil 1L,Other Grocery,150.0,128.0,227,2027-06-16,270,60
+GRO003,Instant Noodles 70g,Other Grocery,14.0,10.0,2500,2027-04-23,240,600
+GRO004,Tea Powder 250g,Other Grocery,130.0,100.0,120,2027-09-07,365,36
+GRO005,Peanut Butter 340g,Other Grocery,210.0,160.0,60,2027-06-12,270,24

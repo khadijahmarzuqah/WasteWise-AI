@@ -1,0 +1,4 @@
+sku,name,category,price,cost,quantity,expiry_date,shelf_life_days,reorder_qty
+MLK900,Sample Milk 1L,Milk,68,58,120,2026-11-29,7,100
+MLK900,Sample Milk 1L,Milk,68,58,80,2026-12-03,7,100
+BIS900,Sample Biscuits 100g,Biscuits,30,23,300,2027-03-24,150,200
